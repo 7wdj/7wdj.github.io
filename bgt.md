@@ -12,7 +12,7 @@
 
 [飞控科技说明书](http://www.fk189.com/fk-cn/help.html ":include :type=iframe width=100% height=600px")
 
-**默认密码**：          **WiFi**：SSID:FK-6W8-FD650   PSK：123456ab    **设置**：168      **专业版**:189
+**默认密码**：          **WiFi**：SSID:FK-6W8-FD650     **设置**：168      **专业版**:189
 
 <img src="https://pic.imgdb.cn/item/66e7a455d9c307b7e9c4f05d.jpg" alt="手册(Menu).jpg">
 
